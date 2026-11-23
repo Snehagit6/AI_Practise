@@ -1,0 +1,2 @@
+ 2025-10-26 13:25:13,849 -  \INFO -  Use pytorch device_name: cpu
+ 2025-10-26 13:25:13,850 -  \INFO -  Load pretrained SentenceTransformer: all-MiniLM-L6-v2

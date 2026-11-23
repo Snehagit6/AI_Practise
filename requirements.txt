@@ -1,0 +1,18 @@
+# openai
+# textblob
+# google-auth-oauthlib
+# google-auth-httplib2
+# google-api-python-client
+# litellm
+# langchain
+# streamlit
+# requests
+pytest
+pytest-html==3.2.0
+bs4
+sentence_transformers
+faiss-cpu
+accelerate
+torch
+transformers
+groq
